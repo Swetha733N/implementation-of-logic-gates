@@ -12,6 +12,12 @@ To implement or gate using nand gate only.
 #Theory:
 To implement NAND operation using OR gate, we first complement the inputs and then perform OR on the complemented inputs.we get A'+B'.A'+B' is equivalent to(AB)' which can be shown to be true by using de morgans law.
 
+#PROGRAM:
+ 
+Developed by:N.Swetha
+
+Register no:22008828
+
 #PROCEDURE:
 
 Place the IC on IC Trainer Kit.
